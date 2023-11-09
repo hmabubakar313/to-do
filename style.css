@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background:linear-gradient(90deg ,#ec2c2c,#d29e62,#e9993d );
+    font-family: Poppins, sans-serif
+}
+.container-fluid{
+    margin: 0 auto;
+    width: 70%;
+    max-width: 600px;
+    padding: 60px 0;
+    color: white;
+}
